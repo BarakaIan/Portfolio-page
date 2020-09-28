@@ -1,0 +1,30 @@
+# My portfolio landing page
+This is my landing page created so that i may invite people to like my page by displaying my skills on website development.
+Its created by Ian Baraka.
+## Desciption
+A web application that is meant to reveal more about the person developing the website, by getting
+to know more about him by knowing his/her interests, hobbies,job experiences
+and other more.
+
+
+### Technologies used
+
+-HTML and CSS
+-Images
+
+
+###### Setup Instructions and Installation
+-You may create a folder in the desktop inside the terminal
+-Clone this repo to a location in your file system.(git clone https://barakaian.github.io/Portfolio-page/)
+-Open teminal command  line then navigate to the root folder of the application 'cd BarakaIan'
+-open index.html in your browser.
+Lastly here is the link to my landing page (https://barakaian.github.io/Portfolio-page/)
+
+##### Licence information
+MIT Licence
+
+##### Known Bugs
+There are no bugs currently but i will keep uptodate with my page.
+
+###### Copyright
+BarakaIan
