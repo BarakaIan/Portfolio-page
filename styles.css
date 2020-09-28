@@ -1,0 +1,102 @@
+/* .Iana a{
+  display: inline-block;
+  color: black;
+  height: 30px;
+  padding:15px;
+  text-decoration: none;
+  padding-right: 80px;
+  font-size: 20px;
+  margin-right: 20px;
+} */
+nav{
+  display: flex;
+  justify-content: flex-end;
+  color: #f2f2f2;
+  background: thistle;
+
+
+}
+.Image img{
+  float: left;
+
+}
+.Image p{
+  float: left;
+} 
+ul{
+  display: flex;
+  list-style-type: none;
+} 
+li a{
+  margin-right: 30px;
+  text-decoration: none;
+}
+ 
+/* .Iana{
+  
+  display: inline-block;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background: thistle;
+  text-align: center;
+} */
+
+}
+dd a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.right-side{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-wrapper{
+    display: flex;
+    font-size: small;
+    width: 100%;
+    justify-content: space-between;
+}
+.name{
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    color: rgb(145, 54, 54);
+}
+h2{
+    color: rgb(145, 54, 54);
+}
+h3{
+    color: rgb(145, 54, 54);
+}
+h5{
+    color: rgb(145, 54, 54);
+}
+body{
+    background-color: silver;
+}
