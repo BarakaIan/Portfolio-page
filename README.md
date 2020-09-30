@@ -14,6 +14,7 @@ Is a portfolio landing page thatshowcases some of my skills,Interests, hobbies.I
 ##### Known Bugs
 There are no bugs currently but i will keep up with the update on my page.
 ###### Copyright
-Ian Baraka
-####### License
+Ian Baraka.
+
+
 MIT Licence
