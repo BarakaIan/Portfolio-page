@@ -13,3 +13,7 @@ Is a portfolio landing page thatshowcases some of my skills,Interests, hobbies.I
 .Lastly here is the link to my live landing page(https://github.com/BarakaIan/Portfolio-page)
 ##### Known Bugs
 There are no bugs currently but i will keep up with the update on my page.
+###### Copyright
+Ian Baraka
+####### License
+MIT Licence
