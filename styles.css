@@ -13,7 +13,7 @@ nav{
   justify-content: flex-end;
   color: #f2f2f2;
   background: thistle;
-
+  border: 2px solid white;
 
 }
 .Image img{
