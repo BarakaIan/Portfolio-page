@@ -8,13 +8,19 @@
   font-size: 20px;
   margin-right: 20px;
 } */
-nav{
-  display: flex;
-  justify-content: flex-end;
-  color: #f2f2f2;
-  background: thistle;
-
-
+a:link{
+  background-color: rgb(109, 233, 136);
+  color: white;
+  padding: 7px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Arial;
+  border: 3px solid  blue;
+  border-radius: 15px;
+}
+a:hover {
+  background-color: rgb(111, 111, 228);
 }
 .Image img{
   float: left;
@@ -86,7 +92,12 @@ dd a black background color to the top navigation */
     text-align: left;
 }
 h1{
-    color: rgb(145, 54, 54);
+    color: rgba(196, 2, 2, 0.603);
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 350%;
+    text-align: center;
+    text-decoration-line: underline;
 }
 h2{
     color: rgb(145, 54, 54);
@@ -94,9 +105,15 @@ h2{
 h3{
     color: rgb(145, 54, 54);
 }
+
 h5{
     color: rgb(145, 54, 54);
 }
 body{
-    background-color: silver;
+    background-color: rgb(241, 241, 134);
+}
+
+h4{
+  float: right;
+  font-size: 75%;
 }
